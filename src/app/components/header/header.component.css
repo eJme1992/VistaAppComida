@@ -1,0 +1,9 @@
+.navbar {
+	background-color: #000;
+}
+.navbar.navbar-dark .navbar-nav .nav-item .nav-link {
+	margin-left: 5px;
+}
+.register-btn {
+	background-color: #FF441F !important;
+}

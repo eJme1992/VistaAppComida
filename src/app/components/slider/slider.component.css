@@ -1,0 +1,38 @@
+.c-portada {background-image: url('src/assets/img/portada.jpg'); background-repeat: no-repeat; background-size: cover;}
+.portada {
+	margin-top: 40px;
+}
+.rgba-black-light,
+.rgba-black-light:after {
+	background-color: rgb(255, 194, 68,0.7);
+}
+
+
+
+.busqueda {
+	border: 2px solid #000!important;
+	background-color: #f2f2f2;
+	border-radius: 7px;
+	overflow: hidden;
+}
+
+.busqueda input {
+	color: #000!important;
+	background-color: transparent;
+	border: 0px solid transparent!important;
+	padding-top: .7rem !important;
+	padding-bottom: .7rem !important;
+	height: 45.38px;
+}
+
+.btn-outline-b {
+	background-color: #FF441F !important;
+	color: #000!important;
+	margin: 0px;
+	padding-left: 2em;
+	padding-right: 2em;
+	/* max-width: 24.3%;*/
+	border: none;
+	height: 48px;
+}
+
