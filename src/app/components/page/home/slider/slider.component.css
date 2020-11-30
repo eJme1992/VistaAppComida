@@ -1,7 +1,5 @@
-.c-portada {background-image: url('src/assets/img/portada.jpg'); background-repeat: no-repeat; background-size: cover;}
-.portada {
-	margin-top: 40px;
-}
+.c-portada {background-image: url('/assets/img/portada.jpg'); background-repeat: no-repeat; background-size: cover;}
+
 .rgba-black-light,
 .rgba-black-light:after {
 	background-color: rgb(255, 194, 68,0.7);
